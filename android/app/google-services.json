@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337966083365",
+    "project_id": "track-me-f6244",
+    "storage_bucket": "track-me-f6244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337966083365:android:3e979fe7528cf916ca3ecc",
+        "android_client_info": {
+          "package_name": "com.example.track_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337966083365-h2f2vtoqufj6k8tf6cvpd69itu64db9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJWH4fUkfNPYTezNbaYYDpu88QwuUKeCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337966083365-h2f2vtoqufj6k8tf6cvpd69itu64db9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
